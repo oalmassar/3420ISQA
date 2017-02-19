@@ -1,3 +1,4 @@
+<div>
 <h1>
 Use Case 1
 </h1>
@@ -15,4 +16,4 @@ Use Case 1
 <p><b>•	Main Success Scenario:</b> Corporate manager receives accurate license and vulnerability information for the requested project package.</p>
 <p><b>•	Failed End Conditions:</b> Corporate manager receives inaccurate or wrong license and vulnerability information for the requested project package.</p>
 <p><b>•	Trigger:</b> Corporate manager uploads or identifies project information to which license and vulnerability information is provided.</p>
-
+</div>
