@@ -9,7 +9,6 @@ Use Case 1
 <p><b>•	Stakeholders:</b></p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Corporate Manager: To receive clear and relevant project information.</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Corporate Developer: To upload pertinent and meaningful information to the database.</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Project Owner: To clearly understand corporate manager decisions to green/red light a project.</p>
 <p><b>•	Preconditions:</b></p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Relevant file/package information is stored in L.V database.</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Proper project information has been provided.</p>
