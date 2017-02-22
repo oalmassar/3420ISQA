@@ -10,7 +10,7 @@ Use Case 1
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Corporate Manager: To receive clear and relevant project information.</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Corporate Developer: To upload pertinent and meaningful information to the database.</p>
 <p><b>•	Preconditions:</b></p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Relevant files and packages information are stored in License and Vulnerability database.</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Relevant files and packages information are stored in Licenses and Vulnerabilities database.</p>
 <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Proper project information has been provided.</p>
 <p><b>•	Main Success Scenario:</b> Corporate manager receives accurate license and vulnerability information for the requested project package.</p>
 <p><b>•	Failed End Conditions:</b> Corporate manager receives inaccurate or wrong license and vulnerability information for the requested project package.</p>
