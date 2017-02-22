@@ -35,3 +35,22 @@ Use Case 2
 <p><b>•	Trigger:</b> Corporate manager is able upload or identify policy information from the Policies database
 </p>
 </div>
+<div>
+<h1>
+Use Case 3
+</h1>
+
+<p><b>•	Title:</b> Determine Policy Information.</p>
+<P><b>•	Primary Actor: </b>Corporate Manager.</p>
+<P><b>•	Goal in Context:</b> The corporate manager is able to determine the policy information based on the software package.</p>
+<p><b>•	Stakeholders:</b></p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo Corporate Manager: To receive clear policy information for a software package</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo Developer: To provide the relevant files and packages information</p>
+
+<p><b>•	Preconditions:</b></p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	Relevant files and packages are in the License and Vulnerabilities database.</p>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspo	All known licenses and vulnerabilities are informed.</p>
+<p><b>•	Main Success Scenario:</b> Corporate manager is able to receives inaccurate policy information for the requested project packages.</p>
+<p><b>•	Failed End Conditions:</b> Corporate manager is not able to receives inaccurate policy information for the requested project packages.</p>
+<p><b>•	Trigger:</b> Corporate manager is able uploads or identifies policy information based on the software package name.</p>
+</div>
