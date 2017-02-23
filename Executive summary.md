@@ -1,1 +1,2 @@
-
+<p>Data flow diagram is illustrating the process for the software packages and the roles for both manager and developer in the application. In the organization, developers are using an open source code to improve the project benefits and time efficiencies but when developers add the open source codes to their programs, they might face several risks. Furthermore, Open source code considered one of the main risks because license and vulnerability have not been tested by Fossology Scanner and NIST Vulnerability Database.</p> 
+<p>This project allows the organization to access all the information related to licenses, codes, and software packages used within the company. Also, it helped the company to avoid major copyright issues. </p>
